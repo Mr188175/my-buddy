@@ -42,8 +42,8 @@ const Post = (props) => {
             style={{ color: 'inherit', textDecoration: 'inherit' }}
             to={`/postDetail/${id}`}
           >
-            <Button variant='contained' color='primary'>
-              See More
+            <Button variant='contained' color='secondary'>
+              Details
             </Button>
           </Link>
         )}

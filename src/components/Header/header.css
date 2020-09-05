@@ -1,9 +1,11 @@
 .header {
-  background-color: #2e4053;
+  background-color: azure;
   height: 60px;
 }
 .header h2 {
   padding-top: 10px;
-  color: white;
+  color: tomato;
   text-align: center;
+  font-size: 30px;
+  font-style: italic;
 }
