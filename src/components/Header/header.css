@@ -1,0 +1,9 @@
+.header {
+  background-color: #2e4053;
+  height: 60px;
+}
+.header h2 {
+  padding-top: 10px;
+  color: white;
+  text-align: center;
+}
